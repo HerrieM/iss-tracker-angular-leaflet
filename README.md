@@ -1,3 +1,7 @@
+```
+This project has been created as part of a development course and is not maintained
+```
+
 # Iss
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
